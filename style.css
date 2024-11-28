@@ -75,7 +75,7 @@ body * {
   z-index: 1;
   transform: translateY(-50%);
 
-  animation: slide-out 0.1s;
+  animation: slide-out 0.2s;
 }
 
 #switch button:hover {
@@ -83,7 +83,7 @@ body * {
 }
 
 .light #switch button {
-  animation: slide-in 0.1s forwards;
+  animation: slide-in 0.2s forwards;
 }
 
 #switch span {
